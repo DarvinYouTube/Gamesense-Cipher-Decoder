@@ -3,7 +3,7 @@
 #define ඞ int
 #define ඞඞ main
 #define ඞඞඞ printf
-#define ඞඞඞඞ "lol"
+#define ඞඞඞඞ "ඞ"
 #define ඞඞඞඞඞ getchar
 #define ඞඞඞඞඞඞ while
 #define ඞඞඞඞඞඞඞ true
